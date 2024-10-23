@@ -35,8 +35,7 @@ const profile: IProfile.Payload = {
     },
   ],
   notice: {
-    title:
-      "휴대전화나 인스타 DM 메시지가 아닌 이메일로 연락 부탁드립니다.",
+    title: '휴대전화나 인스타 DM 메시지가 아닌 이메일로 연락 부탁드립니다.',
     icon: faBell,
   },
 };

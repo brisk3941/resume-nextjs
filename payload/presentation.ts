@@ -13,8 +13,8 @@ const presentation: IPresentation.Payload = {
           content: '일학습병행제 4학년 2학기 전공수료',
         },
         {
-          content:'',
-          postHref: 'https://ipp.ysu.ac.kr/common/common.do?jsp_path=/index'
+          content: '',
+          postHref: 'https://ipp.ysu.ac.kr/common/common.do?jsp_path=/index',
         },
       ],
     },
@@ -27,8 +27,8 @@ const presentation: IPresentation.Payload = {
           content: '장거리/단거리 무선 네트워크 장비 와이파이 무선 테스트 및 전파방해 테스트',
         },
         {
-          content:'',
-          postHref: 'https://sawwave.kr/'
+          content: '',
+          postHref: 'https://sawwave.kr/',
         },
       ],
     },
@@ -39,42 +39,40 @@ const presentation: IPresentation.Payload = {
       descriptions: [
         {
           content: 'IT 기초과정',
-          descriptions: [
-            { content: '프로그래밍 기초'},
-          ]
+          descriptions: [{ content: '프로그래밍 기초' }],
         },
         {
           content: '프로그래밍',
           descriptions: [
-            { content: 'JAVA1/JAVA2'},
-            { content: 'Spring Framwork'},
-            { content: '알고리즘'},
-            { content: 'C언어'},
-            { content: '자료구조'},
-            { content: 'JSP'},
-          ]
+            { content: 'JAVA1/JAVA2' },
+            { content: 'Spring Framwork' },
+            { content: '알고리즘' },
+            { content: 'C언어' },
+            { content: '자료구조' },
+            { content: 'JSP' },
+          ],
         },
         {
           content: '네트워크&운영체제',
           descriptions: [
-            { content: '네트워크기초(CCNA)'},
-            { content: 'CCNP'},
-            { content: '리눅스'},
-            { content: 'Window Server 2008'},
-          ]
+            { content: '네트워크기초(CCNA)' },
+            { content: 'CCNP' },
+            { content: '리눅스' },
+            { content: 'Window Server 2008' },
+          ],
         },
         {
           content: '보안과정',
           descriptions: [
-            { content: '리버스 엔지니어링'},
-            { content: '시스템 보안'},
-            { content: '웹보안'},
-            { content: '네트워크보안'},
-          ]
+            { content: '리버스 엔지니어링' },
+            { content: '시스템 보안' },
+            { content: '웹보안' },
+            { content: '네트워크보안' },
+          ],
         },
         {
-          content:'',
-          postHref: 'https://www.kgitbank.co.kr/'
+          content: '',
+          postHref: 'https://www.kgitbank.co.kr/',
         },
       ],
     },
